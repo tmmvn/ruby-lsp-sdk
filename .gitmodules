@@ -1,4 +1,0 @@
-[submodule "language-server-protocol"]
-	path = language-server-protocol
-	url = https://github.com/microsoft/language-server-protocol
-	branch = gh-pages
